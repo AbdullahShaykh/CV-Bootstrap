@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .row-1{
+    background-color: red;
+} */
+.cl1{
+    background-color: #003049;
+    font-size: medium;
+}
+h1,h2{
+    color: rgb(236, 77, 37);
+    font-family: 'Montserrat', sans-serif;
+}
+.cl11{
+    
+    text-align: center;
+    line-height: 2;
+    color: white;
+    padding: 3rem 2rem 0rem;
+  
+    
+}
+.cl11 img{
+    width: 222px;
+    border-radius: 100%;
+    margin-bottom: 1.5rem;
+
+}
+.cl12{
+    
+    color: white;
+    line-height: 2.2;
+    padding: 2rem;
+}
+.cl12 p i{
+    margin-right: 15px;
+    color: rgb(146, 224, 255);
+}
+.cl13{
+    padding: 2rem;
+    color: white;
+    line-height: 2;
+}
+.cl13 span{
+    color: rgb(146, 224, 255);
+
+}
+.cl14{
+    text-align: left;
+    padding: 2rem;
+    color: white;
+    line-height: 2;
+}
+.cl14 i{
+    color: rgb(146, 224, 255);
+}
+
+.cl2{
+    background-color: #c7c7c7;
+    color: rgb(68, 68, 68);
+    font-size: medium;
+
+}
+.cl21{
+    
+    padding: 3rem;
+}
+.cl21 p{
+    line-height: 2;
+    margin-top: 1.5rem;
+    
+}
+
+
+.cl22{
+    
+    padding: 3rem;
+}
+.cl22 h1{
+    margin-bottom: 1rem;
+}
+.clx{
+    margin-bottom: 2REM;
+}
+.cl23,.cl24{
+   
+    padding: 3rem;
+    line-height: 3;
+}
+.cl23 i,.cl24 i{
+    color: rgb(0, 183, 255);
+}
+
+
+.cl24 span{
+    margin-right: 4rem;
+}
