@@ -98,3 +98,18 @@ h1,h2{
 .cl24 span{
     margin-right: 4rem;
 }
+button{
+    background-color: #c7c7c7;
+    
+    border: none;
+}
+.proff,.expe,.skil,.hb{
+    display: none;
+    
+
+}
+#bt1:hover h1,#bt2:hover h1,#bt3:hover h1,#bt4:hover h1{
+    color: rgb(255, 8, 0);
+    
+    
+}
